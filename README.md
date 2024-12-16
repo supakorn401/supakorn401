@@ -7,7 +7,7 @@ Front-End Developer
 3rd year student of Maejo University Faculty of Science Computer Science major Looking for an internship that will improve my programming skills.
 
 * 🌍  I'm based in Chiangmai
-* ✉️  You can contact me at [supakorn04.work@gmail.com](mailto:supakorn04.work@gmail.com)
+* ✉️  You can contact me at [a.supakorn2547@gmail.com](mailto:a.supakorn2547@gmail.com)
 * 🤝  I'm open to collaborating on Full-Stack Developer
 
 ### Skills
